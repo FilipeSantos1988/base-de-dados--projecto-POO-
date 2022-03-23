@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1638116915 source:c:\users\filipe santos\desktop\uab\2 ano primeiro semestre\poo\programas\efolio\main.cpp
+	<iostream>
+	"relatorio.h"
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+
+1637875793 source:c:\users\filipe santos\desktop\uab\2 ano primeiro semestre\poo\programas\efolio\suicidios.cpp
+	"suicidios.h"
+
+1638115901 c:\users\filipe santos\desktop\uab\2 ano primeiro semestre\poo\programas\efolio\suicidios.h
+	<iostream>
+	<string>
+	<vector>
+
+1638116915 source:c:\users\filipe santos\desktop\uab\2 ano primeiro semestre\poo\programas\efolio\pessoas.cpp
+	"pessoas.h"
+
+1638116915 c:\users\filipe santos\desktop\uab\2 ano primeiro semestre\poo\programas\efolio\pessoas.h
+	<iostream>
+	<vector>
+	<string>
+	"suicidios.h"
+
+1638116915 source:c:\users\filipe santos\desktop\uab\2 ano primeiro semestre\poo\programas\efolio\relatorio.cpp
+	"relatorio.h"
+
+1638116915 c:\users\filipe santos\desktop\uab\2 ano primeiro semestre\poo\programas\efolio\relatorio.h
+	<iostream>
+	<string>
+	<vector>
+	"pessoas.h"
+	<fstream>
+	<sstream>
+
+1638116916 source:c:\users\35192\desktop\efolios\poo\efolio\main.cpp
+	<iostream>
+	"relatorio.h"
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+
+1647985434 c:\users\35192\desktop\efolios\poo\efolio\relatorio.h
+	<iostream>
+	<string>
+	<vector>
+	"pessoas.h"
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1647985390 c:\users\35192\desktop\efolios\poo\efolio\pessoas.h
+	<iostream>
+	<vector>
+	<string>
+	"suicidios.h"
+
+1647985405 c:\users\35192\desktop\efolios\poo\efolio\suicidios.h
+	<iostream>
+	<string>
+	<vector>
+
+1647985354 source:c:\users\35192\desktop\efolios\poo\efolio\relatorio.cpp
+	"relatorio.h"
+	<algorithm>
+
+1637875794 source:c:\users\35192\desktop\efolios\poo\efolio\suicidios.cpp
+	"suicidios.h"
+
+1638116954 source:c:\users\35192\desktop\efolios\poo\efolio\pessoas.cpp
+	"pessoas.h"
+
